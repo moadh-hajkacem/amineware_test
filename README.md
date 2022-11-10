@@ -12,7 +12,9 @@ When running the project please make sure to type each employee identification c
 
 Here are some screenshots of the application:
 
-![Alt text](https://github.com/moadh-hajkacem/amineware_test/blob/main/screenshots/Screenshot_1668120110.png)
+
+
 <img src="https://github.com/moadh-hajkacem/amineware_test/blob/main/screenshots/Screenshot_1668120110.png" width=50% height=50%>
+<img src="https://github.com/moadh-hajkacem/amineware_test/blob/main/screenshots/Screenshot_1668120170.png" width=50% height=50%>
 
 
